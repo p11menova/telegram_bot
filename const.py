@@ -8,5 +8,3 @@ map_api_server = "http://static-maps.yandex.ru/1.x/"
 geocoder_api_server = "http://geocode-maps.yandex.ru/1.x/"
 geocoder_api_key = "40d1649f-0493-4b70-98ba-98533de7710b"
 
-
-
